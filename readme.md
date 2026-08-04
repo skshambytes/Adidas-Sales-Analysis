@@ -82,7 +82,8 @@ To help Adidas stakeholders answer key business questions such as:
 
 > **Dashboard Screenshot**
 
-<img src="Dashboard.png" width="1000">
+<img width="1162" height="645" alt="image" src="https://github.com/user-attachments/assets/d8a0fcfa-cd8f-442a-841a-2b8ebf2c9f4f" />
+
 
 ---
 
